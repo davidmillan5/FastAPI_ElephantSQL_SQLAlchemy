@@ -6,4 +6,4 @@ print('Creating database .....')
 
 Base.metadata.create_all(engine)
 
-# Run Command create_db.py
+# Run Command python create_db.py
